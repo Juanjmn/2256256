@@ -1,6 +1,4 @@
-quer riko el pan
-aque no pa
-agachate y conocelo
+
 <?php
             ///Controllers///
 require_once 'Controller/user.controller.php';
